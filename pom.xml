@@ -8,8 +8,8 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pl.rebyrg.learningarrow</groupId>
-	<artifactId>abacus</artifactId>
+	<groupId>pl.rebyrg</groupId>
+	<artifactId>leatningarrowv011</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>leatningarrowv011</name>
 	<description>Learning arrow v0.11</description>
